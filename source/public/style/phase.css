@@ -1,0 +1,109 @@
+body {
+    background-color: #9D6B53;
+    background-image: linear-gradient(to bottom, #9D6B53, #a75523);
+    background-attachment: fixed;
+    font-family: "Poppins", sans-serif;
+    margin: 0;
+    padding: 0;
+    min-height: 100vh;
+}
+
+#container-om-phases {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    gap: 24px;
+    padding: 32px 20px;
+}
+
+.phaseblock-container {
+    transition: transform 0.25s ease, box-shadow 0.25s ease;
+    display: block;
+    border-radius: 12px;
+    width: 460px;
+    overflow: hidden;
+    box-shadow: 0 6px 24px rgba(0, 0, 0, 0.22);
+
+    &:hover {
+        transform: translateY(-2px);
+        box-shadow: 0 14px 32px rgba(0, 0, 0, 0.28);
+    }
+}
+
+#phaseblock-titel {
+    background-color: #1a2a3a;
+    padding: 12px 16px;
+    color: #e8e8e8;
+    text-align: center;
+    font-size: 14px;
+    font-weight: 600;
+    letter-spacing: 0.03em;
+}
+
+#phaseblock {
+    background-color: rgba(255, 255, 255, 0.94);
+    padding: 24px 24px 20px;
+    color: rgb(0, 0, 0);
+
+    &:hover {
+        background-color: rgb(242, 242, 242);
+        cursor: pointer;
+    }
+}
+
+#phaseblock form {
+    display: flex;
+    align-items: center;
+    gap: 8px;
+    margin-top: 4px;
+}
+
+#phaseblock input[type="number"] {
+    width: 50px;
+    height: 34px;
+    font-size: 14px;
+    text-align: center;
+    border-radius: 8px;
+    border: 1px solid rgba(255, 255, 255, 0.15);
+    background: rgba(255, 255, 255, 0.08);
+    border: 2px solid #DB6920;
+    color: #DB6920;
+    padding: 0;
+    outline: none;
+    transition: border-color 0.15s;
+    font-family: "Poppins", sans-serif;
+}
+
+#phaseblock button[type="submit"] {
+    margin-left: 4px;
+    padding: 6px 18px;
+    height: 34px;
+    border-radius: 8px;
+    background: #2c3e50;
+    color: #ffffff;
+    border: 1px solid rgba(255, 255, 255, 0.15);
+    cursor: pointer;
+    font-size: 13px;
+    font-weight: 600;
+    font-family: "Poppins", sans-serif;
+    transition: background 0.15s;
+}
+
+.flag-container {
+    width: 100%;
+    display: flex;
+    justify-content: space-evenly;
+    align-items: center;
+    font-size: 14px;
+    font-weight: 600;
+    color: #aab8c2;
+    margin-bottom: 18px;
+    padding-bottom: 16px;
+    border-bottom: 1px solid rgba(255, 255, 255, 0.08);
+}
+
+.flags {
+    width: 38%;
+    border-radius: 6px;
+    border: 1px solid rgba(255, 255, 255, 0.12);
+}

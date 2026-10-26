@@ -1,0 +1,10 @@
+C:\Source Root Working\Projects\Footballpool\tools\PhaseDateShifter\bin\Debug\PhaseDateShifter.exe.config
+C:\Source Root Working\Projects\Footballpool\tools\PhaseDateShifter\bin\Debug\PhaseDateShifter.exe
+C:\Source Root Working\Projects\Footballpool\tools\PhaseDateShifter\bin\Debug\PhaseDateShifter.pdb
+C:\Source Root Working\Projects\Footballpool\tools\PhaseDateShifter\obj\Debug\PhaseDateShifter.Form1.resources
+C:\Source Root Working\Projects\Footballpool\tools\PhaseDateShifter\obj\Debug\PhaseDateShifter.Properties.Resources.resources
+C:\Source Root Working\Projects\Footballpool\tools\PhaseDateShifter\obj\Debug\PhaseDateShifter.csproj.GenerateResource.Cache
+C:\Source Root Working\Projects\Footballpool\tools\PhaseDateShifter\obj\Debug\PhaseDateShifter.exe
+C:\Source Root Working\Projects\Footballpool\tools\PhaseDateShifter\obj\Debug\PhaseDateShifter.pdb
+C:\Source Root Working\Projects\Footballpool\tools\PhaseDateShifter\obj\Debug\PhaseDateShifter.csprojAssemblyReference.cache
+C:\Source Root Working\Projects\Footballpool\tools\PhaseDateShifter\obj\Debug\PhaseDateShifter.csproj.CoreCompileInputs.cache
